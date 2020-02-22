@@ -1,0 +1,9 @@
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\bin\Debug\SesVideoBirlestir.exe.config
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\bin\Debug\SesVideoBirlestir.exe
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\bin\Debug\SesVideoBirlestir.pdb
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.csprojAssemblyReference.cache
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.Form1.resources
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.Properties.Resources.resources
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.csproj.GenerateResource.cache
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.exe
+C:\Users\omnyvz\Desktop\SesVideoBirlestir\SesVideoBirlestir\obj\Debug\SesVideoBirlestir.pdb
